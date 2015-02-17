@@ -46,7 +46,7 @@ One of my favorite examples of using a spatial narrative to 'tell' the story is 
 ## **Useful Spatial Narrative Tools (in no particular order)**
 **Note**: some are easier to learn than others
   
-1. StoryMap.js: [http://invasionofamerica.ehistory.org/](http://invasionofamerica.ehistory.org/) 
+1. StoryMap.js: [http://storymap.knightlab.com/](http://storymap.knightlab.com/) 
 2. Odyssey.js: [http://cartodb.github.io/odyssey.js/](http://cartodb.github.io/odyssey.js/) 
 3. ESRI StoryMaps:  [http://storymaps.arcgis.com/en/](http://storymaps.arcgis.com/en/) 
 4. CartoDB: [http://cartodb.com/](http://cartodb.com/)
