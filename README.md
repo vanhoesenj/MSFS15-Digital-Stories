@@ -37,6 +37,7 @@ One of my favorite examples of using a spatial narrative to 'tell' the story is 
 14. Snowfall: [http://j-vh.me/10wdoA4](http://j-vh.me/10wdoA4)
 15. Disasters in America: [http://j-vh.me/1Axivkq](http://j-vh.me/1Axivkq)
 16. Hollow The Film: [http://hollowdocumentary.com/](http://hollowdocumentary.com/)
+17. Dairy Cows: [http://j-vh.me/1eZYBOz](http://j-vh.me/1eZYBOz)
 
 
 ![](https://raw.githubusercontent.com/vanhoesenj/MSFS15-Digital-Stories/master/minard.png)
@@ -51,12 +52,6 @@ One of my favorite examples of using a spatial narrative to 'tell' the story is 
 4. CartoDB: [http://cartodb.com/](http://cartodb.com/)
 5. Neatline: [http://neatline.org/](http://neatline.org/)
 6. Visits: [http://v.isits.in/](http://v.isits.in/)
-7. Dairy Cows: [http://j-vh.me/1eZYBOz](http://j-vh.me/1eZYBOz)
-8. Maptia: [https://maptia.com/](https://maptia.com/)
+7. Maptia: [https://maptia.com/](https://maptia.com/)
 
 <a href="http://j-vh.me/1CmvGBg" target="_blank"><img src="https://raw.githubusercontent.com/vanhoesenj/MSFS15-Digital-Stories/master/atlas.png" alt="Click To Explore" /></a>
-
-[![alt text][2]][1]
-
-  [1]: http://j-vh.me/1CmvGBg
-  [2]: https://raw.githubusercontent.com/vanhoesenj/MSFS15-Digital-Stories/master/atlas.png (Click to explore)
