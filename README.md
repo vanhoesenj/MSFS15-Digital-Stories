@@ -4,15 +4,19 @@ The purpose of this short tutorial is to introduce the concept of a spatial narr
 
 ![](https://raw.githubusercontent.com/vanhoesenj/MSFS15-Digital-Stories/master/Borges.png)
 
+We need to be thoughtful about the remediation process, which [Timothy Briggs](http://www2.bgsu.edu/departments/english/cconline/tbriggs/three_frameworks.html) describes as the: 
+> "representation of one medium into another - have to consider what to include, what they add, what they move forward. Argues newer media can remediate older media and vice versa" 
+
 Ultimately you want to do your best to avoid your readers having this experience:
 
 ![](http://media.giphy.com/media/og1j2W8BkkaAw/giphy.gif) 
 
-and instead - by contextualizing your content with an appropriate spatial narrative - they will have this experience:
+and instead - by contextualizing your content with an appropriate and thoughtful spatial narrative - they will have this experience:
 
 ![](http://media.giphy.com/media/1unWthRtNnzkA/giphy.gif) 
 
 One of my favorite examples of using a spatial narrative to 'tell' the story is Dennis Wood's book ['Everything Sings'](http://sigliopress.com/book/everything-sings/) - a collection of maps he and his students created of the Boylan Heights neighborhood in Raleigh, North Carolina. Many of the stories in the book wouldn't be possible to tell without the embedded spatial component.
+
 
 ***
 # **Digital Storytelling: Examples**
@@ -44,8 +48,9 @@ One of my favorite examples of using a spatial narrative to 'tell' the story is 
 1. StoryMap.js: [http://invasionofamerica.ehistory.org/](http://invasionofamerica.ehistory.org/) 
 2. Odyssey.js: [http://cartodb.github.io/odyssey.js/](http://cartodb.github.io/odyssey.js/) 
 3. ESRI StoryMaps:  [http://storymaps.arcgis.com/en/](http://storymaps.arcgis.com/en/) 
-4. CartoDB: [http://j-vh.me/1pdmR8t](http://j-vh.me/1pdmR8t)
+4. CartoDB: [http://cartodb.com/](http://cartodb.com/)
 5. Neatline: [http://neatline.org/](http://neatline.org/)
 6. Visits: [http://v.isits.in/](http://v.isits.in/)
-7. Maptia: [https://maptia.com/](https://maptia.com/)
+7. Dairy Cows: [http://j-vh.me/1eZYBOz](http://j-vh.me/1eZYBOz)
+8. Maptia: [https://maptia.com/](https://maptia.com/)
 8. 
