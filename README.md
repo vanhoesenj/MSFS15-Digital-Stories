@@ -1,6 +1,6 @@
-# **Digital Storytelling and Mapping Tools**
+# **Storytelling With Spatial Narratives and Mapping Tools**
 
-This is a companion site to a VCGI webinar scheduled for December 16, 2014 titled "Afraid of GDAL, There's a GUI For That: Raster Mastering in QGIS." The primary goal of this presentation is to demonstrate a GUI-based means of accessing the powerful tools available in the GDAL library.
+The purpose of this short tutorial is to introduce the concept of a spatial narrative or the spatial stories described by [Michel de Certeau](https://github.com/vanhoesenj/MSFS15-Digital-Stories/raw/master/certeau.pdf).
 
 You want to do your best to avoid your readers having this experience:
 
