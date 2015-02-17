@@ -1,4 +1,4 @@
-# **STORYTELLING WITH SPATIAL NARRATIVES**
+# **Storytelling With Spatial Narratives**
 
 The purpose of this short tutorial is to introduce the concept of a spatial narrative or [Michel de Certeau](https://github.com/vanhoesenj/MSFS15-Digital-Stories/raw/master/certeau.pdf) concept of spatial stories. Storytelling often has a geographic context that is can difficult to full grasp and more clearly articulated through the inclusion of an ancillary spatial narrative. This often takes the form of a single map shared as a frontispiece in a book that a reader references as they navigate the story but a variety of digital tools offer a more immersive experience where the story is told through or within maps themselves. Maps themselves typically tell a story but in this case their explicit use serves as the dominant narrator. But we need to heed Jorge Luis Borges' caution and make sure both the spatial narrative and/or map are actually required and not just incorporated because it's 'possible' -
 
@@ -38,7 +38,7 @@ One of my favorite examples of using a spatial narrative to 'tell' the story is 
 ![](https://raw.githubusercontent.com/vanhoesenj/GDAL-VCGI/master/Images/geology.png)
 
 ****
-## **USEFUL SPATIAL NARRATIVE TOOLS (in no particular order)**
+## **Useful Spatial Narrative Tools (in no particular order)**
 **Note**: some are easier to learn than others
   
 1. StoryMap.js: [http://invasionofamerica.ehistory.org/](http://invasionofamerica.ehistory.org/) 
