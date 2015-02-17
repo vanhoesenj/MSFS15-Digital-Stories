@@ -54,4 +54,5 @@ One of my favorite examples of using a spatial narrative to 'tell' the story is 
 7. Dairy Cows: [http://j-vh.me/1eZYBOz](http://j-vh.me/1eZYBOz)
 8. Maptia: [https://maptia.com/](https://maptia.com/)
 
-![]()
+
+![](https://raw.githubusercontent.com/vanhoesenj/MSFS15-Digital-Stories/master/atlas.png)
