@@ -39,7 +39,7 @@ One of my favorite examples of using a spatial narrative to 'tell' the story is 
 16. Hollow The Film: [http://hollowdocumentary.com/](http://hollowdocumentary.com/)
 
 
-![](https://raw.githubusercontent.com/vanhoesenj/GDAL-VCGI/master/Images/geology.png)
+![](https://raw.githubusercontent.com/vanhoesenj/MSFS15-Digital-Stories/master/minard.png)
 
 ****
 ## **Useful Spatial Narrative Tools (in no particular order)**
