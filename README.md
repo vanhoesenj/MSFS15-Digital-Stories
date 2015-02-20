@@ -5,7 +5,7 @@ The purpose of this short tutorial is to introduce the concept of a spatial narr
 ![](https://raw.githubusercontent.com/vanhoesenj/MSFS15-Digital-Stories/master/Borges.png)
 
 We need to be thoughtful about the remediation process, which [Timothy Briggs](http://www2.bgsu.edu/departments/english/cconline/tbriggs/three_frameworks.html) describes as the: 
-> "representation of one medium into another - have to consider what to include, what they add, what they move forward. Argues newer media can remediate older media and vice versa" 
+> "representation of one medium into another - have to consider what to include, what they add, what they move forward. Argues newer media can remediate older media and vice versa." 
 
 Ultimately you want to do your best to avoid your readers having this experience:
 
