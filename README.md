@@ -13,7 +13,7 @@ Ultimately you want to do your best to avoid your readers having this experience
 
 and instead - by contextualizing your content with an appropriate and thoughtful spatial narrative - they will have this experience:
 
-![](http://media.giphy.com/media/1unWthRtNnzkA/giphy.gif) 
+![](https://github.com/vanhoesenj/MSFS15-Digital-Stories/raw/master/quite-a-story.gif) 
 
 One of my favorite examples of using a spatial narrative to tell the story is Dennis Wood's book ['Everything Sings'](http://sigliopress.com/book/everything-sings/) - a collection of maps he and his students created of the Boylan Heights neighborhood in Raleigh, North Carolina. Many of the stories in the book wouldn't be possible to tell without the embedded spatial component.
 
