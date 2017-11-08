@@ -1,6 +1,6 @@
 # **Storytelling With A Spatial Narrative**
 
-The purpose of this short tutorial is to introduce the concept of a spatial narrative or [Michel de Certeau's](https://github.com/vanhoesenj/MSFS15-Digital-Stories/raw/master/certeau.pdf) concept of spatial stories. Storytelling often has a geographic context that can be difficult to full grasp and thus more clearly articulated through the inclusion of a supporting spatial narrative. This often takes the form of a single map shared as a frontispiece in a book that a reader references as they navigate the story. Recent advances in web browser capabilities provide a variety of digital tools that offer a more immersive experience where the story is told through or within maps. Maps themselves typically tell a story but in this case their explicit use serves as the dominant narrator. But we need to heed Jorge Luis Borges' caution and make sure both the spatial narrative and/or map are actually required and not just incorporated because it's 'possible' -
+The purpose of this short tutorial is to introduce the concept of a spatial narrative or [Michel de Certeau's](https://github.com/vanhoesenj/MSFS15-Digital-Stories/raw/master/certeau.pdf) concept of spatial stories. Storytelling often has a geographic context that can be difficult to full grasp and thus more clearly articulated through the inclusion of a supporting spatial narrative. This often takes the form of a single map shared as a frontispiece in a book that a reader references as they navigate the story. Recent advances in web browser capabilities provide a variety of digital tools that offer a more immersive experience where the story is told through or within maps. Maps themselves typically tell a story but in this case their explicit use serves as the dominant narrator. However we need to heed Jorge Luis Borges' caution and make sure both the spatial narrative and/or map are actually required and not just incorporated because it's 'possible' -
 
 ![](https://raw.githubusercontent.com/vanhoesenj/MSFS15-Digital-Stories/master/Borges.png)
 
@@ -15,7 +15,7 @@ and instead - by contextualizing your content with an appropriate and thoughtful
 
 ![](http://media.giphy.com/media/1unWthRtNnzkA/giphy.gif) 
 
-One of my favorite examples of using a spatial narrative to 'tell' the story is Dennis Wood's book ['Everything Sings'](http://sigliopress.com/book/everything-sings/) - a collection of maps he and his students created of the Boylan Heights neighborhood in Raleigh, North Carolina. Many of the stories in the book wouldn't be possible to tell without the embedded spatial component.
+One of my favorite examples of using a spatial narrative to tell the story is Dennis Wood's book ['Everything Sings'](http://sigliopress.com/book/everything-sings/) - a collection of maps he and his students created of the Boylan Heights neighborhood in Raleigh, North Carolina. Many of the stories in the book wouldn't be possible to tell without the embedded spatial component.
 
 
 ***
